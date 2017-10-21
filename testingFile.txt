@@ -1,0 +1,2 @@
+This is the first line from first local checkout
+This is the second line in first local checkout
