@@ -1,1 +1,2 @@
 This is the third file added from Copy location:wq
+second line in third file
